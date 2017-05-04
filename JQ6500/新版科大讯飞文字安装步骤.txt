@@ -1,0 +1,18 @@
+安装步骤：安装软件前先停了360等杀软件!
+先用DAEMON Tools 中文版等虚拟光驱加载运行库光盘,不装虚拟光驱的可以直接解压安装！
+虚拟光驱下载:http://www.skycn.com/soft/2345.html  
+1.运行"运行库光盘里的”"InterPhonic 5.0 Setup"文件夹里的Setup.exe安装
+
+2.把 patch文件夹里的两个文件iFlyTTSGUI.exe  ttsknl.dll复制到 【安装目录】\bin 文件夹 并覆盖原来文件
+
+3.运行"InterPhonic 5.0 Setup”\ToolKit\Setup.exe 安装，安装路径要和上一个安装路径一致， 安装过程中出现绑定运行库 打开上面所说覆盖了的文件 ttsknl.dll(点“从指定位置绑定”选择【安装目录】\bin\ttsknl.dll 这个文件）
+  
+  
+4.安装要想要的语音库：一般建议安装8k的小琳，才220M左右，小倩的音库也不错,追求高音质就安装16k最新的小燕，大于1.6G，中文发音很不错。
+
+5.安装了自己喜欢的音库后就可以运行“【安装目录】\bin\iFlyTTSGUI.exe”文件启动程序了！
+
+6.运行这个“【安装目录】\bin\TTSResCntr.exe”（开始菜单那有个“资源管理中心”就是这个文件的快捷方式）文件就能设置音库等了，也可以加入自己喜欢的音乐作为背景音乐（MP3 WAV PCM），加入自定义的词语让你的文本读音更生动！等等多项自定义资源！  MP3转换工具在"InterPhonic 5.0 Setup”\ToolKit\MP3转换文件夹里！
+
+
+
